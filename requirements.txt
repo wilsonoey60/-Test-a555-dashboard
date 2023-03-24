@@ -13,7 +13,7 @@ backports.zoneinfo==0.2.1
 beautifulsoup4==4.11.1
 bleach==5.0.1
 blinker==1.5
-branca @ file:///home/conda/feedstock_root/build_artifacts/branca_1667848736831/work
+
 brotlipy @ file:///D:/bld/brotlipy_1666764911856/work
 cachetools==5.2.0
 certifi==2022.12.7
